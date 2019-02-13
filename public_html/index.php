@@ -19,11 +19,11 @@
 
     <title>Meal Ninja</title>
 
-    <!-- Bootstrap core JavaScript -->
+    <!-- jQuery -->
     <script src="/vendor/jquery/jquery.min.js"></script>
-    <script src="/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
-    <!-- Bootstrap core CSS -->
+    <!-- Bootstrap -->
+    <script src="/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
     <link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
 </head>
