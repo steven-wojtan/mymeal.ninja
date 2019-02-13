@@ -34,8 +34,9 @@
 <!-- Navigation-->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
     <div class="container">
-        <a class="navbar-brand" href="#">My Meal Ninja
-            <img src="https://openclipart.org/download/221232/rollninja.svg" style="width:20px;height:20px;"/>
+        <a class="navbar-brand" href="#">
+            <img src="https://openclipart.org/download/221232/rollninja.svg" style="width:40px;height:40px;"/>
+            My Meal Ninja
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
