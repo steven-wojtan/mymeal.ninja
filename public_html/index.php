@@ -5,13 +5,13 @@
  * Date: 2019-02-06
  * Time: 18:58
  */
+include '/comp/vars.php';
 ?>
 
 <!DOCTYPE html>
 <html lang="en">
 
 <?php
-    include '/comp/vars.php';
     $currentPage = 'Home';
     include '/comp/header.php';
 ?>

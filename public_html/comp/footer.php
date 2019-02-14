@@ -12,3 +12,11 @@
     <script src="/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
     <p>This is the footer></p>
 </footer>
+
+
+<?php
+    echo '\n';
+    echo '\n';
+    echo $_SERVER['DOCUMENT_ROOT'];
+
+?>
