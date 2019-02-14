@@ -5,7 +5,7 @@
  * Date: 2019-02-06
  * Time: 18:58
  */
-include '/comp/vars.php';
+include $_Server['DOCUMENT_ROOT'].'/comp/vars.php';
 ?>
 
 <!DOCTYPE html>
