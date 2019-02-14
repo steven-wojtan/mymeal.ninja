@@ -14,11 +14,3 @@
 </footer>
 
 
-<?php
-    echo "\n";
-echo "\n";
-    echo "".$_SERVER['DOCUMENT_ROOT'];
-echo "\n";
-echo "\n";
-
-?>
