@@ -5,6 +5,10 @@
  * Date: 2019-02-14
  * Time: 11:03
  */
+echo "\n";
+dirname();
+echo "\n";
+
 ?>
 <footer>
     <!-- jQuery & Boostrap -->
