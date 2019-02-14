@@ -6,7 +6,7 @@
  * Time: 11:03
  */
 echo "\n";
-echo dirname('.');
+echo dirname('../');
 echo "\n";
 
 ?>
