@@ -6,7 +6,7 @@
  * Time: 11:03
  */
 echo "\n";
-echo dirname('../index.php',2);
+echo dirname('../comp',2);
 echo "\n";
 
 ?>
