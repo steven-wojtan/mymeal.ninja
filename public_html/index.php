@@ -13,7 +13,7 @@ include '/comp/vars.php';
 
 <?php
     $currentPage = 'Home';
-    include '/comp/header.php';
+    include $_Server['DOCUMENT_ROOT'].'/comp/header.php';
 ?>
 
 <body>
@@ -70,5 +70,5 @@ include '/comp/vars.php';
 
 
 </body>
-<?php include '/comp/footer.php'; ?>
+<?php include $_Server['DOCUMENT_ROOT'].'/comp/footer.php'; ?>
 </html>
