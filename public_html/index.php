@@ -10,24 +10,11 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Meal planning website">
-    <meta name="author" content="Steven Wojtan">
-
-    <title>Meal Ninja</title>
-
-    <link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- jQuery -->
-    <script src="/vendor/jquery/jquery.min.js"></script>
-
-    <!-- Bootstrap -->
-    <script src="/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-
-</head>
+<?php
+    include '/comp/vars.php';
+    $currentPage = 'Home';
+    include '/comp/header.php';
+?>
 
 <body>
 
@@ -83,5 +70,5 @@
 
 
 </body>
-
+<?php include '/comp/footer.php'; ?>
 </html>

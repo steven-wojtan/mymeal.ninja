@@ -21,11 +21,6 @@
 
     <link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
-    <!-- jQuery -->
-    <script src="/vendor/jquery/jquery.min.js"></script>
-
-    <!-- Bootstrap -->
-    <script src="/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
 </head>
 
@@ -81,4 +76,5 @@
 
 </body>
 
+<?php include '/comp/footer.php'; ?>
 </html>
